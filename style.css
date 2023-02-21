@@ -783,9 +783,9 @@ li span:hover:after {
         font-size: 4em;
     }
 
-    #hero-right {
+    /* #hero-right {
         display: none;
-    }
+    } */
 
     .hero-des {
         padding-right: 30px;
