@@ -700,9 +700,9 @@ li span:hover:after {
         width: 100%;
     }
 
-    #hero-right {
+    /* #hero-right {
         display: none;
-    }
+    } */
     .work-double-row{
         padding-left: 30px;
         padding-right: 30px;
@@ -881,8 +881,8 @@ li span:hover:after {
 }
 
 #aSide {
-    height: 600px;
-    width: 600px;
+    width: 100%;
+    height: 100%;
     position: absolute;
     top: calc(50% - 250px);
     right: 7%;
@@ -890,8 +890,8 @@ li span:hover:after {
 
 /* This styles the 3D object inserted in the aside container */
 #aSide model-viewer {
-    height: 600px;
-    width: 600px;
+    width: 100%;
+    height: 100%;
     position: absolute;
     top: 0;
     left: 0;
